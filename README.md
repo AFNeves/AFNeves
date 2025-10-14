@@ -19,6 +19,9 @@
 - **Parallel & Multithreaded Programming**
   - [MultiMat](https://github.com/AFNeves/MultiMat) – Matrix multiplication performance analysis (sequential vs parallel) in C++ and Java.
 
+- **Computer Graphics**
+  - [FireRescue3D](https://github.com/AFNeves/FireRescue3D) – Interactive 3D helicopter fire-fighting simulation built with WebGL.
+
 - **Functional & Logic Programming**
   - [PrologSTAQS](https://github.com/AFNeves/PrologSTAQS) – Prolog implementation of STAQS board game with AI opponent.
   - [HaskellGraphs](https://github.com/AFNeves/HaskellGraphs) – Haskell graph algorithms (Dijkstra, TSP solver).
