@@ -26,6 +26,9 @@
   - [PrologSTAQS](https://github.com/AFNeves/PrologSTAQS) – Prolog implementation of STAQS board game with AI opponent.
   - [HaskellGraphs](https://github.com/AFNeves/HaskellGraphs) – Haskell graph algorithms (Dijkstra, TSP solver).
 
+- **UX/UI & Human-Computer Interaction**
+  - [MealBuddy](https://github.com/AFNeves/MealBuddy) – UX/UI research for a nutrition and meal planning app designed in Figma.
+
 ## 🛠️ Tech Stack
 
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
