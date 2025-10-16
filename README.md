@@ -11,6 +11,7 @@
 
 - **Low-Level & Systems Programming**
   - [MinixTimeKeeper](https://github.com/AFNeves/MinixTimeKeeper) – C program with custom device drivers and a clock interface on MinixOS.
+  - [PenguinRS232](https://github.com/AFNeves/PenguinRS232) – C implementation of a data transmission protocol over an RS-232 serial connection.
   - [JavaChatroom](https://github.com/AFNeves/JavaChatroom) – Distributed Java chatroom with AI chatbot integration.
 
 - **Compilers**
