@@ -24,6 +24,9 @@
 - **Computer Graphics**
   - [FireRescue3D](https://github.com/AFNeves/FireRescue3D) – Interactive 3D helicopter fire-fighting simulation built with WebGL.
 
+- **Algorithm Design**
+  - [WaterSupplyManager](https://github.com/AFNeves/WaterSupplyManager) - C++ analysis tool for water distribution networks using max-flow algorithms.
+
 - **Functional & Logic Programming**
   - [PrologSTAQS](https://github.com/AFNeves/PrologSTAQS) – Prolog implementation of STAQS board game with AI opponent.
   - [HaskellGraphs](https://github.com/AFNeves/HaskellGraphs) – Haskell graph algorithms (Dijkstra, TSP solver).
