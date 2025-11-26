@@ -26,6 +26,7 @@
 
 - **Algorithm Design**
   - [WaterSupplyManager](https://github.com/AFNeves/WaterSupplyManager) - C++ analysis tool for water distribution networks using max-flow algorithms.
+  - [RoutingManager](https://github.com/AFNeves/RoutingManager) - C++ implementation of TSP solutions using backtracking and triangular-inequality heuristics.
 
 - **Functional & Logic Programming**
   - [PrologSTAQS](https://github.com/AFNeves/PrologSTAQS) – Prolog implementation of STAQS board game with AI opponent.
